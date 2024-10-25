@@ -2,6 +2,9 @@
 
 The **Text to SQL** project enables users to convert natural language questions into SQL queries, leveraging advanced NLP models powered by Google Gemini. This application is particularly useful for interacting with SQLite databases by generating accurate SQL queries based on schema information. The system ensures that queries align with the database schema and are automatically validated and corrected before execution.
 
+## Live Demo
+Check out the live version of the app here: [Live Demo](https://text-to-sql-hfuc55xvvcsyxo2idbzk5b.streamlit.app/)
+
 ## Project Overview
 
 This application takes user-inputted natural language questions, analyzes the database schema, and returns an appropriate SQL query. It utilizes Google Gemini for NLP capabilities, FAISS for schema similarity matching, and SQLAlchemy for database schema inspection. The final queries are validated and corrected to ensure accuracy, avoiding errors due to mismatched table or column names.
