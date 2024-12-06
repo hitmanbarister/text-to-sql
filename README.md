@@ -86,7 +86,7 @@ To set up the **Text to SQL** project locally, follow these steps:
 
 ## Author and Contact Information
 
-Created by [Tejas Kudale](https://www.linkedin.com/in/tejas-kudale-8854812b3).
+Created by [Ayush Purandare](https://www.linkedin.com/in/ayush-purandare-535202264).
 
 For any inquiries or collaboration requests, feel free to contact me via GitHub or LinkedIn.
 
